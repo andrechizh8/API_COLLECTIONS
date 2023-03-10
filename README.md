@@ -1,14 +1,4 @@
 Download and import to Postman
----
-These api tests check the basic business logic of applications (smoke tests):
-
-1.Create
-
-2.Read
-
-3.Update
-
-4.Delete
 
 ---
 
